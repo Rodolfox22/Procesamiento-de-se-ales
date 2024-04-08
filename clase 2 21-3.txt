@@ -1,0 +1,32 @@
+\begin{document}
+
+\title{Clase 2}
+\section*{Señales}
+\begin{itemize}
+  \item Señal:
+    representacion fisica de informacion que lueg oserá utilizada
+  \item señal de voz: variable: tiempo, la señal varia en funcion del tiempo
+  \item señal de video: 2 variables: tiempo y espacio mas señal de sonido
+  \item señal de imagen: brillo
+la adquisicion de señales se realiza de manera continua, no esta cuantizado ni discretizado, será necesario procesarlos para interpretar las señales
+\end{itemize}
+\begin{valores}
+  valores discreto: tienen valor acotado tambien llamados valores digitales
+  sistemas digitales: 
+    ventajas: se puede enviar informacion precisa de 
+    desventajas: se necesita una banda mas ancha para que se pueda procesar una señal
+  sistemas analógicos:
+    ventajas: se pueden tomar infinitos valores, no queda acotado a unos y ceros como el digital
+      son valores que se procesan en tiempo real (ejemplo  del parlante y microfono)
+      son mas economicos
+      mas fieles
+    desventajas: ruidosos
+      sufren degradación y calidad
+      es más dificil poder repararlos
+
+señales discretas, son una toma de muestras por intervalos, normalmente se convierten en señales digitales
+\end{valores}
+periodo
+tiempo
+
+\end{document}
